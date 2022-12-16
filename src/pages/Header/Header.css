@@ -1,0 +1,9 @@
+.header--title {
+    background-color: rgb(100, 241, 100);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 700;
+}
